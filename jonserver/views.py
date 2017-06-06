@@ -72,7 +72,6 @@ def hello(request):
   return HttpResponse('hello dere')
 
 
-getAll, getActive, search, visitPage, deactivatePage, deletePage,
 
 
 # def index(request):
