@@ -1,5 +1,4 @@
 
 
 
-web: gunicorn pserver.wsgi
-
+web: gunicorn myproject.wsgi --log-file -
